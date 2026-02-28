@@ -56,29 +56,6 @@ The system prevents unsupported answers by:
 
 ---
 
-## 📂 Project Structure
-
-app/
-│
-├── agents/
-│ ├── analyzer.py
-│ ├── retriever.py
-│ ├── diagnosis_agent.py
-│ ├── critic_agent.py
-│ └── validator.py
-│
-├── data/
-│ └── faults.csv
-│
-├── llm/
-│ └── client.py
-│
-├── schemas.py
-├── config.py
-└── main.py
-
----
-
 ## 🚀 Running the Project
 
 1. Install dependencies:
